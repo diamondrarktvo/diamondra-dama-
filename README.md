@@ -4,7 +4,7 @@
 - 
 -                                             🌱 I’m currently learning JavaScript
 
-https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=YOUR_USERNAME
+https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=amada10
 
 
 <!---
