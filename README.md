@@ -5,6 +5,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amada10&theme=solarized-dark&custom_title=Language)](https://github.com/anuraghazra/github-readme-stats)<br />
 <div>
   <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=amada10&theme=blue-green&fire=red&ring=red&date_format=j/n/Y)](https://git.io/streak-stats" /> <br/><br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=amada10&theme=leafy&date_format=j%20M%5B%20Y%5D&ring=047884&sideNums=06ACBD&dates=06ACBD&currStreakNum=08E8FF&currStreakLabel=08E8FF&background=ffffff00&hide_border=true" alt="GitHub Stats" /> <br/><br/>
   </p>
 </div>
+<p align='center'>
+  <img alt='Python' src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white'/>
+  <img alt='JavaScript' src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black'/>
+  <img alt='Linux' src='https://img.shields.io/badge/Linux-3776AB?style=for-the-badge&logo=linux&logoColor=white'/>
+  <img alt='GIT' src='https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white'/>
