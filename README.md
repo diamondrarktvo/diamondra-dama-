@@ -1,7 +1,11 @@
 #                                                                <div text>👋 Hello World !!!</center>
  ***<p color="blue">Dama RAKOTOARINAIVO</p>*** A votre service pour tout développement ***front-end*** ou autre.
  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amada10&show_icons=true&theme=algolia&include_all_commits=true&custom_title=Statistique)](https://github.com/anuraghazra/github-readme-stats)<br />
+<div>
+  <p align="center">
+    <img src="(https://github-readme-stats.vercel.app/api?username=amada10&show_icons=true&theme=algolia&include_all_commits=true&custom_title=Statistique" alt="Lang stats" /> <br/><br/>
+  </p>
+</div>
 <div>
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amada10&theme=solarized-dark)](https://github.com/anuraghazra/github-readme-stats" alt="Lang stats" /> <br/><br/>
