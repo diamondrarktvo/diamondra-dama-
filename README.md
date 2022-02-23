@@ -8,7 +8,7 @@
 </div>
 <div>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amada10&theme=solarized-dark)](https://github.com/anuraghazra/github-readme-stats" alt="Lang stats" /> <br/><br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amada10&theme=solarized-dark" alt="Lang stats" /> <br/><br/>
   </p>
 </div>
 <div>
