@@ -1,5 +1,5 @@
 #                                                                <center>👋 Hello World !!!</center>
- ***<p color="blue">Dama RAKOTOARINAIVO</p>*** A votre service pour tout développement ***front-end*** ou autre.
+ ***<p color="blue">Dama RAKOTOARINAIVO</p>*** A votre service pour tout développement ***front-end*** que ce soit mobile ou web..
  
 <div>
   <p align="center">
