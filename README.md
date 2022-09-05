@@ -1,5 +1,5 @@
 #                                                                <center>👋 Hello World !!!!!</center>
- ***<p align=center color=blue>Dama RAKOTOARINAIVO</p>*** A votre service pour tout développement ***front-end*** que ce soit mobile ou web..✌️✌️✌️
+ ***<p align=center color=blue>Dama RAKOTOARINAIVO</p>*** <p align=center>A votre service pour tout développement ***front-end*** que ce soit mobile ou web..✌️✌️✌️</p>
  
 <div>
   <p align=center>
@@ -22,5 +22,5 @@
   <img alt='Linux' src='https://img.shields.io/badge/Linux-3776AB?style=for-the-badge&logo=linux&logoColor=white'/>
   <img alt='GIT' src='https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white'/>
 <p align=center>  <strong>
-<img src='https://komarev.com/ghpvc/?username=gaetan1903&color=008080'>
+<img src='https://komarev.com/ghpvc/?username=amada10&color=008080'>
 </strong> <p>
