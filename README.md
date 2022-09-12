@@ -19,6 +19,7 @@
 <p align=center>
   <img alt='html' src='https://img.shields.io/badge/HTML-3776AB?style=for-the-badge&logo=html&logoColor=white'/>
   <img alt='JavaScript' src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black'/>
+  <img alt='Nodejs' src='https://img.shields.io/badge/NodeJs-F7DF1E?style=for-the-badge&logo=nodejs&logoColor=black'/>
   <img alt='Linux' src='https://img.shields.io/badge/Linux-3776AB?style=for-the-badge&logo=linux&logoColor=white'/>
   <img alt='GIT' src='https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white'/>
 <p align=center>  <strong>
