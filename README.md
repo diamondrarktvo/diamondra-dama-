@@ -1,6 +1,6 @@
 #                                                                <p align=center>👋 Hello World !!!!!</p>
  ***<p align=center color=blue>Dama RAKOTOARINAIVO</p>*** <p align=center>A votre service pour tout développement ***front-end*** que ce soit mobile ou web..✌️✌️✌️</p>
- ***<a href="https://diamondra-portfolio.netlify.app/" align=center>Mon portfolio : </a>***
+ ***<p align=center><a href="https://diamondra-portfolio.netlify.app/">Mon portfolio</a></p>***
  
 <div>
   <p align=center>
